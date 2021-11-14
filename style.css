@@ -158,7 +158,7 @@ q {
 }
 
 .modul {
-    margin-top: 40px;
+    margin: 80px 0;
     display: flex;
     width: 800px;
     height: 200px;
@@ -202,6 +202,14 @@ q {
 
 }
 
-
-
+footer {
+    color: white;
+    background-color: #1f2937;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+}
 
